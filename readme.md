@@ -45,7 +45,7 @@ This is a simple Notes App that allows users to create, view, and delete notes. 
     6. Notes update dynamically without refreshing the pag
 ## Screenshots
 
-![App Screenshot]<Screenshot 2025-02-07 220241.png>)
+![App Screenshot](<Screenshot 2025-02-07 220241.png>)
 
 
 
